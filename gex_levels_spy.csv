@@ -1,0 +1,2 @@
+date,spot,total_net_gex,gamma_flip,call_res_1,call_res_2,call_res_3,put_sup_1,put_sup_2,put_sup_3,largest_wall,regime
+2026-07-11,754.9500122070312,3863524021.155008,751.8120819129558,760.0,757.0,750.0,750.0,745.0,740.0,760.0,positive
